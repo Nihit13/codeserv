@@ -24,7 +24,7 @@ class ColabCode:
         self,
         port=10000,
         password=None,
-        authtoken=None,
+        authtoken="218Kechj7HJvHEEeudNpsCMdKC4_3zLyUZKneexWQ6EzfgGrx",
         mount_drive=False,
         code=True,
         lab=False,
